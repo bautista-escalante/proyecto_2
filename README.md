@@ -19,4 +19,4 @@ este codigo esta compuesto por cuatro funciones que se utilizan en esta funcion 
 
 # link del proyecto  
 
-https://www.tinkercad.com/things/2uF8b0o1EVn-surprising-migelo/editel?sharecode=SUQxVFV7QJRxrjDjtB1IqUHe0zGhwtW0VVtgWjecDPE
+https://www.tinkercad.com/things/2uF8b0o1EVn
